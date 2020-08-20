@@ -4,7 +4,7 @@
 
 [My CV](https://docs.google.com/document/d/1JTNxg3jjPmAs4rVHfURNzWI1kf9yEZ2s3tAPHDcfyI0/edit?usp=sharing)
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![My CV](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 ### Lifting up skills by learning from a senior developer during the mentoring project:
 
