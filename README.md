@@ -9,14 +9,14 @@
 
 #### Serp-app (Vue)
 
-[Git](https://github.com/madvingovich/serp-vue)
-[Production](https://serp-vue.netlify.app/#/)
+- [Git](https://github.com/madvingovich/serp-vue)
+- [Production](https://serp-vue.netlify.app/#/)
 
 #### LifeRemain (Svelte)
 
-[Git](https://github.com/madvingovich/life-remain)
-[Production](https://liferemain.netlify.app/)
-[Storybook](https://liferemain.netlify.app/storybook)
+- [Git](https://github.com/madvingovich/life-remain)
+- [Production](https://liferemain.netlify.app/)
+- [Storybook](https://liferemain.netlify.app/storybook)
 
 ### Connect with me:
 
