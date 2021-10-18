@@ -21,4 +21,4 @@
 ### Connect with me:
 
 - [Telegram](https://t.me/luckoverdose)
-- [Instagram](https://www.instagram.com/madvadik/)
+- [Instagram](https://www.instagram.com/kindvadik/)
